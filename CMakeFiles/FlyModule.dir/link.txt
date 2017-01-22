@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -Wall -Wextra -Werror -Wno-deprecated-declarations  -shared -Wl,-soname,libFlyModule.so -o /home/wyzlic_a/.sensor/libFlyModule.so CMakeFiles/FlyModule.dir/src_sensor/FlyModule.cpp.o 

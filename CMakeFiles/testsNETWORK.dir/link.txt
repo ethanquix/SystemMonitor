@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Werror -Wno-deprecated-declarations   CMakeFiles/testsNETWORK.dir/src_sensor/NetworkModule.cpp.o CMakeFiles/testsNETWORK.dir/unit_test/testNetworkModule.cpp.o  -o bin_tests/testsNETWORK 

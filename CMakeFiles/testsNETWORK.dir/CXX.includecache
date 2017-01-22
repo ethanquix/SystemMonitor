@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wyzlic_a/blih/cpp/jason/src_sensor/NetworkModule.cpp
+fstream
+-
+time.h
+-
+sstream
+-
+NetworkModule.hpp
+/home/wyzlic_a/blih/cpp/jason/src_sensor/NetworkModule.hpp
+
+/home/wyzlic_a/blih/cpp/jason/src_sensor/NetworkModule.hpp
+AMonitorModule.hpp
+/home/wyzlic_a/blih/cpp/jason/src_sensor/AMonitorModule.hpp
+
+/home/wyzlic_a/blih/cpp/jason/unit_test/testNetworkModule.cpp
+IMonitorModule.hpp
+/home/wyzlic_a/blih/cpp/jason/unit_test/IMonitorModule.hpp
+NetworkModule.hpp
+/home/wyzlic_a/blih/cpp/jason/unit_test/NetworkModule.hpp
+iostream
+-
+
+modules/AMonitorModule.hpp
+vector
+-
+IMonitorModule.hpp
+modules/IMonitorModule.hpp
+
+modules/IMonitorModule.hpp
+vector
+-
+string
+-
+
+src_sensor/NetworkModule.hpp
+AMonitorModule.hpp
+src_sensor/AMonitorModule.hpp
+

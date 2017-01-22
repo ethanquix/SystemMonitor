@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -Wall -Wextra -Werror -Wno-deprecated-declarations  -shared -Wl,-soname,libUserInfo.so -o /home/wyzlic_a/.sensor/libUserInfo.so CMakeFiles/UserInfo.dir/src_sensor/UserInfo.cpp.o 

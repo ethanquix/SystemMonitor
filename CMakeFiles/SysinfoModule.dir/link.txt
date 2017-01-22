@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -Wall -Wextra -Werror -Wno-deprecated-declarations  -shared -Wl,-soname,libSysinfoModule.so -o /home/wyzlic_a/.sensor/libSysinfoModule.so CMakeFiles/SysinfoModule.dir/src_sensor/SysinfoModule.cpp.o 

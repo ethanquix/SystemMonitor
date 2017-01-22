@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wyzlic_a/blih/cpp/jason/src_sensor/CpuInfo.cpp
+time.h
+-
+string
+-
+iostream
+-
+regex
+-
+fstream
+-
+CpuInfo.hpp
+/home/wyzlic_a/blih/cpp/jason/src_sensor/CpuInfo.hpp
+
+/home/wyzlic_a/blih/cpp/jason/src_sensor/CpuInfo.hpp
+AMonitorModule.hpp
+/home/wyzlic_a/blih/cpp/jason/src_sensor/AMonitorModule.hpp
+
+modules/AMonitorModule.hpp
+vector
+-
+IMonitorModule.hpp
+modules/IMonitorModule.hpp
+
+modules/IMonitorModule.hpp
+vector
+-
+string
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Werror -Wno-deprecated-declarations   CMakeFiles/testsDate.dir/src_sensor/DateModule.cpp.o CMakeFiles/testsDate.dir/unit_test/testDateModule.cpp.o  -o bin_tests/testsDate 

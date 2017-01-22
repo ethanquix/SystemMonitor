@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -Wall -Wextra -Werror -Wno-deprecated-declarations  -shared -Wl,-soname,libCpuFreqProcessesModule.so -o /home/wyzlic_a/.sensor/libCpuFreqProcessesModule.so CMakeFiles/CpuFreqProcessesModule.dir/src_sensor/FrequencyPourcentage.cpp.o 

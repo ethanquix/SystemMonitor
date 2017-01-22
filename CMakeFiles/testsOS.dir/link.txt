@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Werror -Wno-deprecated-declarations   CMakeFiles/testsOS.dir/src_sensor/UserInfo.cpp.o CMakeFiles/testsOS.dir/unit_test/testOsModule.cpp.o  -o bin_tests/testsOS 

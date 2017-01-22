@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Werror -Wno-deprecated-declarations   CMakeFiles/testsCPU_FREQ.dir/unit_test/testFreqPercent.cpp.o CMakeFiles/testsCPU_FREQ.dir/src_sensor/FrequencyPourcentage.cpp.o  -o bin_tests/testsCPU_FREQ 

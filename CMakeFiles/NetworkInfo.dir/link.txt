@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -Wall -Wextra -Werror -Wno-deprecated-declarations  -shared -Wl,-soname,libNetworkInfo.so -o /home/wyzlic_a/.sensor/libNetworkInfo.so CMakeFiles/NetworkInfo.dir/src_sensor/NetworkModule.cpp.o 

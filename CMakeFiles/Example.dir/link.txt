@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -Wall -Wextra -Werror -Wno-deprecated-declarations  -shared -Wl,-soname,libExample.so -o /home/wyzlic_a/.sensor/libExample.so CMakeFiles/Example.dir/src_sensor/Example.cpp.o 

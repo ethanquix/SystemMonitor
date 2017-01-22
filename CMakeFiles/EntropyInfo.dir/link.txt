@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -Wall -Wextra -Werror -Wno-deprecated-declarations  -shared -Wl,-soname,libEntropyInfo.so -o /home/wyzlic_a/.sensor/libEntropyInfo.so CMakeFiles/EntropyInfo.dir/src_sensor/EntropyModule.cpp.o 

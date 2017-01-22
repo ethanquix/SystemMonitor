@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Werror -Wno-deprecated-declarations   CMakeFiles/testsCPU.dir/unit_test/testCpuInfoModule.cpp.o CMakeFiles/testsCPU.dir/src_sensor/CpuInfo.cpp.o  -o bin_tests/testsCPU 

@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wextra -Werror -Wno-deprecated-declarations   CMakeFiles/testsFLY.dir/unit_test/testFlyModule.cpp.o CMakeFiles/testsFLY.dir/src_sensor/FlyModule.cpp.o  -o bin_tests/testsFLY 
